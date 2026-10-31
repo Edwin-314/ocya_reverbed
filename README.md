@@ -1,5 +1,7 @@
 # Ocoya Remade
 
+Analytics includes 7/30/90-day and network filters, daily impressions, engagement rate, follower gains, per-network performance and CSV export. Performance metrics are explicitly labeled sample data; disabling samples shows the disconnected state. Content pipeline counts use real local drafts and schedules. This is an independent report design; the paid Ocoya analytics screen has not been verified. Run `tests/analytics-smoke.cjs` with the app running on port 3001 (`PORT=3001`) to verify these workflows.
+
 A local dashboard prototype informed by Ocoya’s public product pages and passive observation of its brand onboarding. This is an independent implementation, not a verified reproduction of paid screens.
 
 Run `npm start`, then open http://localhost:3000. No dependencies are required. Run `npm run check` for JavaScript syntax validation.
