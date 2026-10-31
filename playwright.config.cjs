@@ -1,0 +1,1 @@
+module.exports={testDir:'./tests',use:{baseURL:'http://127.0.0.1:3000',launchOptions:{executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'}},webServer:{command:'node server.cjs',url:'http://127.0.0.1:3000',reuseExistingServer:true}};
